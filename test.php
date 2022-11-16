@@ -1,0 +1,2 @@
+<?php
+#test ²âÊÔ Chinese GBK file shows.
